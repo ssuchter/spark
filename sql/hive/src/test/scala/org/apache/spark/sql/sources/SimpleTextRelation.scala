@@ -17,7 +17,7 @@
 
 package org.apache.spark.sql.sources
 
-import org.apache.hadoop.conf.Configuration
+import org.apache.hadoop.conf.Configuration  // SEAN10
 import org.apache.hadoop.fs.{FileStatus, Path}
 import org.apache.hadoop.mapreduce.{Job, TaskAttemptContext}
 
